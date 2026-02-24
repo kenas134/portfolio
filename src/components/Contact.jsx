@@ -29,18 +29,18 @@ const Contact = () => {
                     >
                         <h3 className="text-2xl font-bold text-slate-900 dark:text-white mb-6">Contact Information</h3>
                         <div className="space-y-6">
-                            <a href="mailto:kirubel@example.com" className="flex items-center gap-4 text-slate-600 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
+                            <a href="mailto:kirubel.tba@gmail.com" className="flex items-center gap-4 text-slate-600 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
                                 <div className="p-3 bg-indigo-50 dark:bg-indigo-900/20 rounded-full text-indigo-600 dark:text-indigo-400">
                                     <Mail className="w-6 h-6" />
                                 </div>
-                                <span className="text-lg">kirubel@example.com</span>
+                                <span className="text-lg">kirubel.tba@gmail.com</span>
                             </a>
 
-                            <a href="https://github.com/Kirk-H-M" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-slate-600 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
+                            <a href="https://github.com/kenas134" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-slate-600 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
                                 <div className="p-3 bg-indigo-50 dark:bg-indigo-900/20 rounded-full text-indigo-600 dark:text-indigo-400">
                                     <Github className="w-6 h-6" />
                                 </div>
-                                <span className="text-lg">github.com/Kirk-H-M</span>
+                                <span className="text-lg">https://github.com/kenas134</span>
                             </a>
                         </div>
 
